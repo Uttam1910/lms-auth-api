@@ -28,3 +28,11 @@ A Learning Management System (LMS) Authentication API built with Node.js and Exp
    ```bash
    node index.js
 
+## Endpoints
+POST /auth/signup
+POST /auth/signin
+GET /auth/user
+POST /auth/logout
+GET /
+
+
