@@ -24,4 +24,7 @@ A Learning Management System (LMS) Authentication API built with Node.js and Exp
    PORT=3000
    JWT_SECRET=your_jwt_secret
    NODE_ENV=development
+4. Start the server:
+   ```bash
+   node index.js
 
